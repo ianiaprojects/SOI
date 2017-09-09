@@ -1,5 +1,6 @@
 # SO I (Homework)
 
+C++ terminal Scope: create a simple command line interpretor, able to interpret a set of internally-implemented commands.
 The application should offer the following facilities:
 
     Accept user commands from the command line. The interpretor will expose a specific prompt (e.g. '$>') showing that it is prepared to accept a user command.
